@@ -1,0 +1,31 @@
+{
+    "name": "function-munger",
+    "homepage": "https://github.com/khrome/function-munger",
+    "version": "0.0.1-alpha",
+    "main": "munger.js",
+    "description": "Utilities for dynamic modification of function bodies",
+    "keywords": [
+        "function", "mutator"
+    ],
+    "author": "Abbey Hawk Sparrow <@khrome> (http://patternweaver.com)",
+    "contributors": [],
+    "bugs": {
+        "url": "https://github.com/khrome/function-munger/issues"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:khrome/function-munger.git"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+        "mocha": "*",
+        "should": "*"
+    },
+    "optionalDependencies": {
+    },
+    "engines": {
+        "node": "*"
+    }
+}
